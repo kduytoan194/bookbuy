@@ -104,7 +104,7 @@
   .sidebar-nav .navbar ul {
     float: none;
   }
- .dropdown-menu {
+.dropdown-menu{
 left: 12em !important;
 top: -6em !important;
 }
@@ -117,6 +117,8 @@ top: -6em !important;
   }
   .sidebar-nav .navbar li a {
     padding-top: 12px;
+    font-size: 12px;
+    font-weight: bold;
       }
 /*slider*/
 .slider{
