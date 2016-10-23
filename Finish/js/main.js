@@ -12,10 +12,11 @@ $(function () {
 $(document).ready(function(){
   $(".owl-carousel").owlCarousel(
   	{
-    loop:true,
-    margin:10,
-    nav:true,
-    responsive:{
+        loop:true,
+        nav:true,
+        margin: 25,
+        navText: ["<i class='ion ion-chevron-left'></i>", "<i class='ion ion-chevron-right'></i>"],
+        responsive:{
         0:{
             items:1
         },
@@ -26,6 +27,6 @@ $(document).ready(function(){
             items:5
         }
     }
-}
-  	);
+    });
 });
+ 

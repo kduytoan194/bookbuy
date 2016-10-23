@@ -115,11 +115,20 @@ top: -6em !important;
     float: none;
     display: block;
   }
-  .sidebar-nav .navbar li a {
+.sidebar-nav .navbar li a {
     padding-top: 12px;
     font-size: 12px;
+    color: #000;
     font-weight: bold;
-      }
+    border-bottom: 2px solid:#e1e1e1;
+}
+.danhmuc{
+	text-align: left;
+	font-size: 17px;
+	font-weight: bold;
+	color: #869d49;
+	background: #e8e8e8;
+}
 /*slider*/
 .slider{
 	margin: 0px 0px 0px 0px;
@@ -141,7 +150,12 @@ section.content{
 .promo img{
 	width: 100%;
 }
-
+.owl-nav .owl-pre{
+	margin-top: -30px;
+}
+.owl-nav .owl-next{
+	margin-right: 20dp
+}
 /*product-list*/
 h3.box-title{
 	text-align: left;
