@@ -10,7 +10,7 @@
 }
 
 .top-bar .lang{
-	font-size: 11px;
+	font-size: 8px;
 }
 
 .top-bar .lang button{
@@ -120,7 +120,11 @@ top: -6em !important;
     font-size: 12px;
     color: #000;
     font-weight: bold;
-    border-bottom: 2px solid:#e1e1e1;
+}
+.menu123 li {
+	float: left;
+	padding: 2px 0px;
+	border-bottom: 1px solid:#e1e1e1;
 }
 .danhmuc{
 	text-align: left;
