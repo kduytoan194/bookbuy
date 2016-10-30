@@ -252,7 +252,12 @@ h3.box-title{
 	font-weight: normal;
 	color: #928F8F;
 }
-
+.product-item .title p{
+	font-size: 14px;
+	font-weight: normal;
+	color: #928F8F;
+	margin-top: 16px;
+}
 .product-item .title a:hover{
 	color: #000;
 }
