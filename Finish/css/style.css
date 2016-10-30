@@ -411,6 +411,7 @@ h3.box-title{
 
 .footer-copyright{
 	background: #2E2F33;
+	margin: 0px;
 	padding: 15px 0px;
 }
 
@@ -418,6 +419,16 @@ h3.box-title{
 	color: #fff;
 	margin: 0px;
 }
-
-
+.value{
+	color: #FF8000;
+	float: right;
+	font-weight: bold;
+}
+h3.title{
+	text-align: left;
+	font-weight: bold;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #e1e1e1;
+	margin-bottom: 30px;
+	text-transform: uppercase;
 /*#01DFD7*/
