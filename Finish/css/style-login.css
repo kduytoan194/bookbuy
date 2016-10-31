@@ -178,7 +178,12 @@ img { max-width: 100%; }
 .social-login h3 {
 	color:#CED8F6 ;
 }
-
+.social-login .face{
+	background-color: #3B5998;
+}
+.social-login .go{
+	background-color: #ea4335;
+}
 .social-login-buttons {
 	margin-top: 25px;
 }
